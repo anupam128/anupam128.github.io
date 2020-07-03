@@ -9,7 +9,7 @@ I took the God narrative for granted until I was an adult. This was the first ti
 This experience led me down the rabbit hole of being a skeptic. In the pursuit of emotional support I turned to God and religion. Finding no solace there I felt myself drowning in a deep void, a dark place from where it would be hard to return.
 
 This was the time I found George Carlin.
-![George Carlin](/_posts/media/carlin.jpeg)
+![George Carlin](/public/media/carlin.jpeg)
 
 
 The “Religion is Bullshit” piece left a big impact on me. 

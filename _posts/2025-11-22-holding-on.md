@@ -2,95 +2,99 @@
 layout: post
 title: Holding On
 ---
-The cold had ceased to be an intruder; it was a resident now, settling into the furniture and the pile of blankets where they lived. The apartment smelled of stale wool and the dry, chalky scent of plaster that hadn't moved in days.
+The cold had settled into the furniture and the pile of blankets where they lived. The apartment had lost the smell of yeast and damp towels; now, it smelled only of old dust.
 
-Sami giggled, a sound as thin as paper. "Do the wolf, Papa."
+Sami giggled, a sound brittle as dried paper. "Do the wolf, Papa."
 
-Adam’s hands shifted in the flashlight’s pale cone. The batteries were weak, casting the shadow against the wall in soft, fuzzy gray edges. He curled his fingers, and the snout appeared—not a monster, just a creature.
+Adam’s hands shifted in the flashlight’s pale cone. The batteries were failing, casting the shadow against the wall in soft, fuzzy edges. He curled his fingers, and the snout appeared—not a monster, just a creature.
 
 "He is quiet tonight," Adam whispered.
 
-"Is he hunting?" Sami asked, watching the wall.
+"Is he hunting?" Sami asked, eyes fixed on the plaster.
 
 "No. He is waiting. Wolves are very good at waiting."
 
-Sami tucked his chin into the oversized collar of his sweater. "What is he waiting for?"
+Sami tucked his chin into the oversized collar of the grey cardigan. The wool was unraveling at the cuff, swallowing the boy’s small hands. "What is he waiting for?"
 
 "For the moon," Adam said. "And for a biscuit. A round one."
 
-"The blue tin," Sami said. He didn't ask it as a question this time. He just said it, testing the weight of the memory. "The one with the sugar."
+"The blue tin," Sami said. He didn't ask it as a question. He said it to test the weight of the memory. "The one with the sugar."
 
-Adam looked at the shadow-wolf. He didn't make it howl or dance. He just let it breathe on the wall, his own hand rising and falling with his chest. "Yes. The blue tin."
+Adam looked at the shadow-wolf. He didn't make it howl or dance. He let it breathe on the wall, his own hand rising and falling with his chest. "Yes. The blue tin."
 
-Sami looked away from the shadow. He looked at the kitchen door, which was closed to keep the draft out. He knew the cupboards behind it were open and empty, like hungry mouths.
+Sami looked away from the shadow. He looked at the kitchen door, closed to keep the draft out.
 
-"Mama took the key to the cupboard," Sami said softly.
+"Mama took the key to the cupboard," Sami said.
 
-It was a new logic, one the boy had invented to make sense of the hunger. Adam didn't correct him. It was a kinder truth than the real one.
+Adam stared at the boy's profile. The logic was new, a small architecture built to make sense of the empty shelves.
 
-"She did," Adam said. "She wanted to keep them safe."
+"She did," Adam said. "She is keeping it safe."
 
-Outside, the horizon grumbled. It wasn't a sharp sound, but a low, rolling thud, like heavy furniture being moved in the apartment upstairs. The taped-up windowpane hummed in its frame, a heavy resonance that you felt in your chest before you heard the sound.
+Outside, the darkness vibrated. It wasn't a sharp sound, but a low, rolling thud, like a heavy wardrobe being dragged across the floor of the apartment above. The windowpane hummed in its frame, a resonance felt in the teeth before it was heard in the ears.
 
-Sami didn't flinch. He was used to the sounds. "They are closer," he observed.
+Sami didn't flinch. "It is closer."
 
-Adam stiffened. He had been tracking the thuds for three nights. Two days ago, they were a distant thunder. Yesterday, they were at the river. Tonight, they were at the bridge.
+Adam stiffened. He had been tracking the noise for three nights. Two days ago, it was distant thunder. Yesterday, it shook the floorboards. Tonight, it was in the street.
 
 "A little closer," Adam admitted.
 
-"Are we moving to the camp?" Sami asked.
+"Are we moving to the south?"
 
-The question hung in the cold air. The "camp" was a word they heard on the radio before the batteries died. It was a place of tents and soup, somewhere to the south. But going there meant leaving the door. It meant if she came back, she would find an empty house.
+The question hung in the vapor of their breath. The south. A static-filled promise from the radio before it died. Warmth. Crowds. Safety. But to go there was to leave the door unlocked. To accept that the footsteps on the stairs would never be hers.
 
-"Not yet," Adam said, the lie tasting of ash. "We are waiting for the signal."
+"Not yet," Adam said. He swallowed, his throat dry. "We are waiting for the signal."
 
 "What signal?"
 
-"The... the morning," Adam improvised weakly.
+"The... the morning."
 
-The flashlight flickered. It didn't pop or fizzle; it simply faded. The yellow beam turned orange, then a dull red, effectively dissolving the shadow-wolf into the wall. Then, it was gone.
+The flashlight flickered. It didn't pop; the filament simply turned the color of a dying coal, dissolving the wolf into the gray plaster. Then, black.
 
-The darkness was absolute. It rushed into the room, filling the space between them, pressing against their eyes.
+The darkness was instant. It rushed into the room, collapsing the distance between the walls.
 
-"Papa?" Sami’s voice was small, drifting in the void.
+"Papa?" Sami’s voice was small, unmoored.
 
-"I'm here." Adam reached out, his fingers brushing the wool of the sweater. He found the boy's shoulder and pulled him in.
+"I'm here." Adam reached out. He found the coarse wool of the cardigan, then the small shoulder beneath it, and pulled him in.
 
 "The wolf is gone."
 
-"He's just sleeping," Adam whispered. He clicked the switch back and forth. Nothing. The batteries were dead. The last anchor to their little world was severed.
+"He's just sleeping," Adam whispered. He clicked the plastic switch back and forth. A dry, useless click. The last anchor was cut.
 
-They sat in the dark, listening. Without the light to focus on, the sounds outside grew heavier. The thudding was rhythmic now. Thump... thump... thump. It wasn't random shelling anymore. It was a knock at the door of the city.
+They sat in the dark. Without the cone of light to hold their focus, the world expanded terrifyingly. The thudding outside grew rhythmic. Thump... thump... thump.
 
-"Are we still waiting for the signal?" Sami murmured, his voice thick with sleep.
+For a second, Adam’s heart leaped—it sounded like a fist on wood. A frantic knocking. He lifted his head, turning toward the entryway, his breath caught in a painful hitch, waiting for her voice.
 
-Adam swallowed the grit in his throat. He looked at the invisible door, the empty cupboard, the place where the blue tin used to be. "Yes," he lied, staring into the blackness. "We are waiting."
+But the rhythm didn't stop. It wasn't a knock. It was the mechanical stride of the concussions, walking up the street.
+
+"Are we still waiting for the signal?" Sami murmured.
+
+Adam looked toward the invisible kitchen, the empty shelf. He tried to summon the scent of her, but he could only smell the dust of the crumbling city. "Yes," he said. "We are waiting."
 
 "Okay," Sami breathed. "I'm good at waiting."
 
-The boy shifted, nesting into the curve of Adam’s body, trusting him completely to hold the world in place. Slowly, the tension left Sami’s small frame. His breathing evened out, becoming a soft, steady rhythm against the violent percussion of the night.
+The boy shifted, nesting into the curve of Adam’s body. Slowly, the tension drained from Sami’s small frame. His breathing evened out, becoming a soft, steady counter-rhythm to the percussion of the night.
 
-Adam rested his hand over Sami’s chest.
-
-Up and down.
+Adam rested his hand over Sami’s heart.
 
 Up and down.
 
-The rhythm was faint through the thick wool, but it was there. Warm. Persistent.
+Up and down.
 
-Adam looked up. In the crushing dark, his eyes sought the outline of the kitchen door. He stared at the empty space where the blue tin used to be. He listened, straining against the thumping outside, waiting for the creak of a hinge, a footstep, anything.
+The rhythm was faint through the layers of wool, but persistent.
+
+Adam stared into the crushing blackness. He listened, straining against the thunder, begging for the squeak of a hinge, the specific cadence of her heel on the parquet.
 
 Silence.
 
-The floor lurched, a dry groan from the building's joints.
+The floor lurched beneath them, a dry groan from the building's joints.
 
-Adam looked back down at the bundle in his arms. The boy was asleep, his chest rising and falling against Adam’s palm.
+Adam looked back down at the bundle in his arms. The boy was asleep.
 
-It was the quietest battle of the war— life is a constant struggle between holding on and letting go. Adam realized, with a sudden, sharp clarity, that he couldn't do both.
+Adam closed his fingers, gripping the fabric of the grey cardigan. He felt the vibration of the boy's life against his palm, and the vibration of the floor against his legs. He could not hold both.
 
-Adam closed his fingers, gripping the fabric of Sami's sweater. He turned his face away from the kitchen. He pressed his cheek into the boy’s hair, inhaling the scent of dust and life. A single, hot tear trailed into his beard.
+He turned his face away from the kitchen. He pressed his cheek into the boy’s hair, inhaling the scent of dust and scalp. A single tear trailed into his beard, cooling instantly.
 
-"Sleep now, little wolf," Adam whispered into the blackness. "Say goodbye to the room."
+"Sleep now, little wolf," Adam whispered. "Say goodbye to the room."
 
 Sami didn't stir.
 

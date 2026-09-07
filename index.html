@@ -2,36 +2,44 @@
 layout: default
 title: Home
 ---
+{% assign featured = site.posts.first %}
+{% assign featured_meta = site.data.writing[featured.slug] %}
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<section class="home-intro">
+  <p class="eyebrow">Fiction · Essays · Ideas</p>
+  <h1>Stories about people,<br>systems, and strange futures.</h1>
+  <p class="intro-copy">A collection of speculative fiction, personal essays, and curious detours by Anupam Upadhyay.</p>
+</section>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+<section class="featured-piece" aria-labelledby="featured-title">
+  <div class="feature-mark" aria-hidden="true"><span>01</span></div>
+  <div class="feature-copy">
+    <p class="section-kicker">Featured {{ featured_meta.category | default: "writing" }}</p>
+    <h2 id="featured-title"><a href="{{ featured.url | relative_url }}">{{ featured.title }}</a></h2>
+    <p>{{ featured_meta.description | default: featured.excerpt | strip_html | truncatewords: 34 }}</p>
+    <a class="text-link" href="{{ featured.url | relative_url }}">Read the piece <span aria-hidden="true">→</span></a>
   </div>
-  {% endfor %}
-</div>
+</section>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<section class="selected-work" aria-labelledby="selected-title">
+  <div class="section-heading">
+    <div><p class="section-kicker">From the collection</p><h2 id="selected-title">Selected work</h2></div>
+    <a class="text-link" href="{{ '/archive/' | relative_url }}">View all writing <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="work-grid">
+    {% assign shown = 0 %}
+    {% for post in site.posts %}
+      {% assign post_meta = site.data.writing[post.slug] %}
+      {% unless post.url == featured.url %}
+        {% if shown < 6 %}
+          <article class="work-card">
+            <p class="card-meta"><span>{{ post_meta.category | default: "Writing" }}</span><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></p>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <p>{{ post_meta.description | default: post.excerpt | strip_html | truncatewords: 25 }}</p>
+          </article>
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  </div>
+</section>

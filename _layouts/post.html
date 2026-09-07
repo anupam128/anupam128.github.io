@@ -1,29 +1,28 @@
 ---
 layout: default
-pagination:
-  enabled: true
 ---
-
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
+<article class="reading-page">
+  {% assign page_meta = site.data.writing[page.slug] %}
+  <header class="article-header">
+    {% if page_meta.category %}<p class="eyebrow">{{ page_meta.category }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page_meta.description %}<p class="article-deck">{{ page_meta.description }}</p>{% endif %}
+    <p class="article-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+  </header>
+  <div class="article-body">{{ content }}</div>
+</article>
 
 {% if site.related_posts.size >= 1 %}
-<div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
+<aside class="related" aria-labelledby="related-heading">
+  <p class="section-kicker">Continue reading</p>
+  <h2 id="related-heading">More from the archive</h2>
+  <div class="related-grid">
     {% for post in site.related_posts limit:3 %}
-    <li>
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
-      </h3>
-    </li>
+      {% assign related_meta = site.data.writing[post.slug] %}
+      <a class="related-item" href="{{ post.url | relative_url }}">
+        <span>{{ related_meta.category | default: "Writing" }}</span><strong>{{ post.title }}</strong>
+      </a>
     {% endfor %}
-  </ul>
-</div>
+  </div>
+</aside>
 {% endif %}

@@ -1,10 +1,10 @@
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 # Setup
 title: Anupam Upadhyay
 tagline: "I know nothing!"
-description: "Anupam's personal website."
+description: "Speculative fiction, essays, and curious detours by Anupam Upadhyay."
 url: https://anupam128.com
 baseurl: ""
-paginate: 5
 permalink: pretty
 # pagination:
 #   enabled: true
@@ -17,8 +17,7 @@ author:
   email: anupam128@gmail.com
 
 # Gems
-plugins:
-  - jekyll-paginate
+plugins: []
 
 # Custom vars
 version: 0.0.1

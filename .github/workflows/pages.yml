@@ -12,9 +12,11 @@ permissions:
   pages: write
   id-token: write
 
+# PR validation is independent of production deployment.
+# New commits replace outdated PR builds, but never cancel a main deployment.
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: pages-${{ github.event_name == 'pull_request' && github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   build:

@@ -27,11 +27,34 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2"
+          ruby-version: "3.4"
           bundler-cache: true
 
       - name: Build site
         run: bundle exec jekyll build
+
+      - name: Smoke test generated site
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in index.html atom.xml public/css/editorial.css; do
+            if [[ ! -s "_site/$file" ]]; then
+              echo "::error::Missing or empty generated file: $file"
+              exit 1
+            fi
+          done
+
+          if ! find _site -mindepth 2 -name index.html -type f -print -quit | grep -q .; then
+            echo "::error::No generated content pages found"
+            exit 1
+          fi
+
+          if ! grep -q '<feed ' _site/atom.xml; then
+            echo "::error::Generated Atom feed is invalid or empty"
+            exit 1
+          fi
+
+          echo "Generated homepage, content pages, CSS and Atom feed verified."
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

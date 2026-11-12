@@ -29,3 +29,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "github-pages", group: :jekyll_plugins
 
 gem "webrick", "~> 1.9"
+
+# Ruby 3.4 moved CSV out of its default gems; Jekyll 3 still requires it.
+gem "csv", "~> 3.3"
